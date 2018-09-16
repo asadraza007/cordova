@@ -1,0 +1,4 @@
+#Sun Sep 16 16:24:07 PKT 2018
+base.0=E\:\\personal\\cordovaApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\release\\0
+renamed.0=classes.dex
+file.0=E\:\\personal\\cordovaApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\release\\0\\classes.dex
